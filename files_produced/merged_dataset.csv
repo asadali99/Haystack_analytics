@@ -1,0 +1,9 @@
+,IDs,chromosome,position,allle1,allele2,trait
+0,a1,1,1000453,A,G,Trait A
+1,b1,22,2945720,T,G,Trait B
+2,c1,2,3400,C,G,Trait C
+3,d2,X,105,G,T,Trait D
+4,,1,100442,,,Trait X
+5,,2,105,,,Trait Y
+6,,3,3400,,,Trait G
+7,,5,70034,,,Trait H
